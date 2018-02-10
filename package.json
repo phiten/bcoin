@@ -1,6 +1,6 @@
 {
   "name": "verium-bcoin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Verium Reserve bike-shed",
   "license": "MIT",
   "repository": "git://github.com/phiten/verium-bcoin.git",
